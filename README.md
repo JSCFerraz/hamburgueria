@@ -1,3 +1,9 @@
+deployed in Vercel: https://react-entrega-hamburgueria-da-kenzie-typescript-jscferraz.vercel.app
+
+style guide: https://www.figma.com/file/Slx5NlfZ0qcai4lu74tO9u/Hamburgueria-Sprint-5?node-id=0%3A1
+
+API: https://github.com/Kenzie-Academy-Brasil-Developers/hamburgueria-kenzie-version-2/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
